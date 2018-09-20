@@ -8,5 +8,5 @@ on ubuntu :
     
 or
 
-you cqn visit https://www.rstudio.com/products/rstudio/download/
+you can visit https://www.rstudio.com/products/rstudio/download/
     
